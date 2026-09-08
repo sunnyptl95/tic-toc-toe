@@ -18,7 +18,7 @@ app = FastAPI()
 # Optional Render self-ping.
 # Set PUBLIC_URL to your deployed Render URL.
 # Example: https://your-game-backend.onrender.com
-SELF_PING_INTERVAL = int(os.getenv("SELF_PING_INTERVAL", "600"))  # 10 minutes
+SELF_PING_INTERVAL = int(os.getenv("SELF_PING_INTERVAL", "300"))  # 5 minutes
 PUBLIC_URL = os.getenv("PUBLIC_URL", "").rstrip("/")
 
 
