@@ -35,3 +35,5 @@ A simple and fun **Tic Tac Toe — Notebook Edition** made with HTML, CSS and Ja
 **Sunny**
 
 Built as a project under **[OWLEST](https://owlest.netlify.app/)**.
+
+<img width="627" height="820" alt="image" src="https://github.com/user-attachments/assets/c700bb1a-e412-4225-a8e8-b5d4c4c1de2a" />
